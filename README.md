@@ -1,4 +1,4 @@
- ![cover_image](https://user-images.githubusercontent.com/37588746/125724339-86983f73-b11c-4a33-bd2b-a9a32aa77a40.jpg)
+ 
 
 <h1 align="center">Hi 👋, I'm Thamina Omar Toma</h1>
 <h3 align="center">A passionate Mobile App developer</h3>
